@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block body %}
+<div>
+
+
+<table class="main_results">
+{% if link %}
+<div class="input-form2">
+  <h1 style="color:black">Результат поиска доступен по 
+	<a href="{{link}}" target="_blank">
+		ссылке
+	</a>
+  
+  </h1>
+</div>
+{% endif %}
+    <tr>
+        {% for row_title in the_row_titles %}
+            <th>{{ row_title }}</th>
+        {% endfor %}
+    </tr>
+    {% for log_row in the_data %}
+        <tr>
+            {% set ns = namespace(range = 0)  %}
+            
+            {% for item in log_row %}                
+                {% if ns.range%6==0 %}
+                    <td>
+                        <a target="_blank">
+                            {{ item }}
+                        </a>
+                    </td>
+                {% else %}
+                    <td>
+                        <a href="viewresults/{{ item }}" target="_blank">
+                            {{ item }}
+                        </a>
+					</td>
+                {% endif %}
+                {% set ns.range = ns.range + 1 %}
+            {% endfor %}
+        </tr>
+    {% endfor %}
+</table>
+</div>
+{% endblock %}

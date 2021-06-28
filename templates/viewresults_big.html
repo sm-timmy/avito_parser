@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block body %}
+
+{% if the_row_titles %}
+<div class="main">
+	<a href="/viewresults" >
+	  <input type="button" value="Назад к списку таблиц">
+	</a>
+	<a href="/downloads/{{search}}" >
+	  <input type="button" value="Скачать результат">
+	</a>
+  <h1 style="color:white">Пролистайте вниз для просмотра резульататов &#8595;</h1>
+</div>
+{% endif %}
+
+<table>
+    <tr>
+        {% for row_title in the_row_titles %}
+            <th>{{ row_title }}</th>
+        {% endfor %}
+    </tr>
+    {% for log_row in the_data %}
+        <tr>
+            {% set ns = namespace(range = 0)  %}
+            
+            {% for item in log_row %}                
+                {% if ns.range%6==0 %}
+                    <td>
+                        <a target="_blank">
+                            {{ item }}
+                        </a>
+                    </td>
+                {% else %}
+                    <td>
+						{% if ns.range%2==0 %}
+							<a href="{{item}}" target="_blank">
+								{{ item }}
+							</a>
+						{% else %}
+							<a target="_blank">
+								{{ item }}
+							</a>
+						{% endif %}
+					</td>
+                {% endif %}
+                {% set ns.range = ns.range + 1 %}
+            {% endfor %}
+        </tr>
+    {% endfor %}
+</table>
+
+{% endblock %}

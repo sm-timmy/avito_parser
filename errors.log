@@ -1,0 +1,55 @@
+Time: 2021-06-03 13:57:24.635690 || ip: 127.0.0.1 || Browser: firefox || Error: 'NoneType' object has no attribute 'find_all'
+Time: 2021-06-04 09:29:32.705357 || ip: 127.0.0.1 || Browser: firefox || Error: 'NoneType' object has no attribute 'find_all'
+Time: 2021-06-04 10:22:55.783165 || ip: 127.0.0.1 || Browser: firefox || Error: name 'full_parsing' is not defined
+Time: 2021-06-04 10:30:11.249940 || ip: 127.0.0.1 || Browser: firefox || Error: name 'full_parsing' is not defined
+Time: 2021-06-04 10:30:23.364435 || ip: 127.0.0.1 || Browser: firefox || Error: name 'full_parsing' is not defined
+Time: 2021-06-04 10:31:44.366576 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 10:32:05.391532 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 10:33:29.962726 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 10:35:31.295492 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 10:36:14.283819 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 10:48:57.572464 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 10:53:42.901781 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 10:56:12.235793 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 10:59:48.329890 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 11:02:39.878491 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 11:07:14.864293 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 11:09:29.651187 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 11:10:08.171789 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 11:10:08.216427 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 11:10:21.076225 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 11:10:21.077153 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 11:17:13.465129 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 11:17:36.961705 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 11:18:19.574196 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 11:18:36.869897 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 11:19:13.120107 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 11:20:19.781799 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 11:20:19.812201 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 11:23:02.794564 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-04 11:23:02.825010 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'Request' object to str implicitly
+Time: 2021-06-07 06:30:34.647611 || ip: 127.0.0.1 || Browser: firefox || Error: Encountered unknown tag 'endif'.
+Time: 2021-06-07 07:24:56.772675 || ip: 127.0.0.1 || Browser: firefox || Error: name 'url_for' is not defined
+Time: 2021-06-07 07:24:56.792952 || ip: 127.0.0.1 || Browser: firefox || Error: name 'url_for' is not defined
+Time: 2021-06-07 07:27:22.861333 || ip: 127.0.0.1 || Browser: firefox || Error: Could not build url for endpoint 'viewresults' with values ['link']. Did you mean 'download_results' instead?
+Time: 2021-06-07 07:27:22.897278 || ip: 127.0.0.1 || Browser: firefox || Error: Could not build url for endpoint 'viewresults' with values ['link']. Did you mean 'download_results' instead?
+Time: 2021-06-07 08:56:15.581048 || ip: 127.0.0.1 || Browser: firefox || Error: name 'getpages' is not defined
+Time: 2021-06-07 08:56:15.606236 || ip: 127.0.0.1 || Browser: firefox || Error: name 'getpages' is not defined
+Time: 2021-06-07 08:57:45.816461 || ip: 127.0.0.1 || Browser: firefox || Error: getpages() missing 1 required positional argument: 'pagecount_'
+Time: 2021-06-07 08:57:45.855594 || ip: 127.0.0.1 || Browser: firefox || Error: getpages() missing 1 required positional argument: 'pagecount_'
+Time: 2021-06-07 08:58:47.930461 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'NoneType' object to str implicitly
+Time: 2021-06-07 08:58:47.964601 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'NoneType' object to str implicitly
+Time: 2021-06-07 08:59:54.399722 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'NoneType' object to str implicitly
+Time: 2021-06-07 08:59:54.426911 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'NoneType' object to str implicitly
+Time: 2021-06-07 09:01:39.213321 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'NoneType' object to str implicitly
+Time: 2021-06-07 09:01:39.242154 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'NoneType' object to str implicitly
+Time: 2021-06-07 09:02:26.586194 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'NoneType' object to str implicitly
+Time: 2021-06-07 09:02:26.587531 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'NoneType' object to str implicitly
+Time: 2021-06-07 09:03:54.378586 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'NoneType' object to str implicitly
+Time: 2021-06-07 09:03:54.427313 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'NoneType' object to str implicitly
+Time: 2021-06-07 09:15:32.463523 || ip: 127.0.0.1 || Browser: firefox || Error: name 'titles' is not defined
+Time: 2021-06-07 09:15:32.495998 || ip: 127.0.0.1 || Browser: firefox || Error: name 'titles' is not defined
+Time: 2021-06-07 09:19:07.995902 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'NoneType' object to str implicitly
+Time: 2021-06-07 09:19:08.020387 || ip: 127.0.0.1 || Browser: firefox || Error: Can't convert 'NoneType' object to str implicitly
+Time: 2021-06-07 09:44:08.804930 || ip: 127.0.0.1 || Browser: firefox || Error: name 'pages' is not defined
+Time: 2021-06-07 09:44:08.834444 || ip: 127.0.0.1 || Browser: firefox || Error: name 'pages' is not defined
